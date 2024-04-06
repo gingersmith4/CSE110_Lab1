@@ -21,7 +21,7 @@ git add
 ```
 
 I've also learned how to make a relative link to a file, like this
-[Image of surfboards](assets/surfboards.jpg)
+[image of surfboards](assets/surfboards.jpg)
 
 2. **CSE 130** Programming Languages: Principles and Paradigms
 3. **LTFR 142** French Literature: Colonism and Post-Colonialism
@@ -47,13 +47,12 @@ I've also learned how to make a relative link to a file, like this
 
 ## Me as a person
 ### My hobbies
-- Crochet 🧶 <img src="/assets/crochet.jpg" width=20% height=20%>
+- Crochet 🧶 <img src="/assets/crochet.jpg" alt="Two small crochet bags: one purple and one dark blue, on a beach towel." width=20% height=20%>
 - Ukelele
-- Cooking <img src="/assets/pie2.jpg" width=20% height=20%>
+- Cooking <img src="/assets/pie2.jpg" alt="A handmade pie with the crust cut into the shapes of leaves." width=20% height=20%>
 
 ### My interests
-Traveling ✈️
-Spending time in nature <img src="/assets/surfboards.jpg" width=20% height=20%> <img src="/assets/dunes.jpg" width=20% height=20%>
+Traveling ✈️ and spending time in nature <img src="/assets/surfboards.jpg" alt="Colorful surfboards arranged in a circle on a beach." width=20% height=20%> <img src="/assets/dunes.jpg" alt="A girl sitting on the top of a sand dune with blue sky in the background." width=20% height=20%>
 
 I studied abroad in *Nantes, France* in fall of this year!
 
@@ -68,14 +67,14 @@ I studied abroad in *Nantes, France* in fall of this year!
 - [x] Quoting text
 - [x] Quoting code
 - [x] External Links
-- [x] section links <!-- these exist automatically! -->
-- [x] relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+- [x] Section links <!-- these exist automatically! -->
+- [x] Relative links <!-- (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)  -->
 - [x] Images + uploading assets
 - [x] Ordered Lists
-- [x] unordered lists
-- [x] task lists
-- [x] emojis
-- [x] alerts
-- [x] comments
+- [x] Unordered lists
+- [x] Task lists
+- [x] Emojis
+- [x] Alerts
+- [x] Comments
 
       
