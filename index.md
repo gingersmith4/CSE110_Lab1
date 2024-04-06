@@ -12,6 +12,9 @@
 ### Women In Computing
 - Being part of a supportive community is important to me! That's why I'm involved in WIC
 <img src="/assets/wicbanq.jpg" width=20% height=20%>
+- Last year I had the opportunity to attend the [Grace Hopper Celebration](https://ghc.anitab.org), where I learned about different areas of computer science and was inspired to pursue a career in technology.
+
+  > A ship in harbor is safe, but that's not what ships are made for. -Grace Hopper
 
 
 ### Work Experience
@@ -38,20 +41,21 @@ I studied abroad in *Nantes, France* in fall of this year!
 <!-- Other method to insert an image: ![A picture of me!](/assets/g4smith.jpg) -->
 
 > [!NOTE]
-> This section is for me to keep track of my progress.
+> The section below is for me to keep track of my progress.
 
-#### To dos
+#### To dos to complete this
 - [x] Headings
 - [x] Styling text
-- [ ] Quoting text/code
-- [ ] colors
-- [ ] Links, section links, relative links
+- [ ] Quoting text
+- [ ] Quoting code
+- [ ] External Links
+- [ ] section links
+- [ ] relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 - [x] Images + uploading assets
-- [x] Lists & task lists
-- [ ] Mentioning people & teams, referencing issues & pull requests, referencing sources
+- [ ] Ordered Lists
+- [x] unordered lists
+- [ ] task lists
 - [x] emojis
-- [ ] paragraphs
-- [ ] footnotes
 - [x] alerts
 - [x] comments
 
