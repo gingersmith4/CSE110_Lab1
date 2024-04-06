@@ -17,8 +17,11 @@
 So far in this class I've learned some new commands for git!
 ```
 touch
-add
+git add
 ```
+
+I've also learned how to make a relative link to a file, like this
+[Image of surfboards](assets/surfboards.jpg)
 
 2. **CSE 130** Programming Languages: Principles and Paradigms
 3. **LTFR 142** French Literature: Colonism and Post-Colonialism
@@ -38,7 +41,7 @@ add
   - Python, PyQt, Agile
 - **Tutor** for CSE 8A and 29
   - Python and C
-- **Teaching Assistant** for Girls Who Code Summer Immersion Program
+- **Teaching Assistant** for [Girls Who Code Virtual](https://girlswhocode.com) Summer Immersion Program (VSIP)
   - HTML, CSS, JavaScript
 
 
@@ -59,14 +62,14 @@ I studied abroad in *Nantes, France* in fall of this year!
 > [!NOTE]
 > The section below is for me to keep track of my progress.
 
-#### To dos to complete this
+#### To dos to complete this assignment
 - [x] Headings
 - [x] Styling text
 - [x] Quoting text
 - [x] Quoting code
 - [x] External Links
-- [ ] section links
-- [ ] relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+- [x] section links <!-- these exist automatically! -->
+- [x] relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 - [x] Images + uploading assets
 - [x] Ordered Lists
 - [x] unordered lists
