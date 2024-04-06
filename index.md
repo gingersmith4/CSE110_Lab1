@@ -1,18 +1,34 @@
 # Ginger's User Page
-<img src="/assets/g4smith.jpg" width=30% height=30%>
+<img src="/assets/g4smith.jpg" width=20% height=20%>
 
 ## Me as a programmer
 
 ### Classes I've taken and languages I've used
-- CSE 100: C++
-- CSE 107: Python and PlayCrypt
-- CSE 140L: SystemVerilog
+- **CSE 100** Advanced Data Structures
+  - C++
+- **CSE 107** Introduction to Modern Cryptography
+  - Python and PlayCrypt
+- **CSE 140L** Digital Systems Laboratory
+  - SystemVerilog
+
+### Classes I'm taking this quarter
+1. **CSE 110** Software Engineering
+
+So far in this class I've learned some new commands for git!
+```
+touch
+add
+```
+
+2. **CSE 130** Programming Languages: Principles and Paradigms
+3. **LTFR 142** French Literature: Colonism and Post-Colonialism
 
 
 ### Women In Computing
 - Being part of a supportive community is important to me! That's why I'm involved in WIC
-<img src="/assets/wicbanq.jpg" width=20% height=20%>
-- Last year I had the opportunity to attend the [Grace Hopper Celebration](https://ghc.anitab.org), where I learned about different areas of computer science and was inspired to pursue a career in technology.
+<img src="/assets/wicbanq.jpg" alt="Four girls in dresses standing in front of balloons holding letters that spell out WIC" width=20% height=20%>
+
+- Last year I had the opportunity to attend the [Grace Hopper Celebration](https://ghc.anitab.org) with WIC, where I learned about different areas of computer science and was inspired to pursue a career in technology.
 
   > A ship in harbor is safe, but that's not what ships are made for. -Grace Hopper
 
@@ -46,15 +62,15 @@ I studied abroad in *Nantes, France* in fall of this year!
 #### To dos to complete this
 - [x] Headings
 - [x] Styling text
-- [ ] Quoting text
-- [ ] Quoting code
-- [ ] External Links
+- [x] Quoting text
+- [x] Quoting code
+- [x] External Links
 - [ ] section links
 - [ ] relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
 - [x] Images + uploading assets
-- [ ] Ordered Lists
+- [x] Ordered Lists
 - [x] unordered lists
-- [ ] task lists
+- [x] task lists
 - [x] emojis
 - [x] alerts
 - [x] comments
